@@ -26,7 +26,7 @@
 
 ### <img src="https://api.iconify.design/mdi:account-circle.svg?color=%232196F3" width="25" style="vertical-align: middle;" /> About Me
 
-<img align="right" src="profile.jpg" width="280" style="border-radius: 50%;">
+<img align="right" src="profile-circle.png" width="280">
 
 I am a passionate **Full Stack & Mobile Developer** with a deep interest in **AI-powered applications**. I enjoy building systems that don’t just work — they **learn, adapt, and scale**.
 
