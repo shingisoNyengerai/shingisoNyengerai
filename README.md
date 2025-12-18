@@ -1,11 +1,4 @@
-Absolutely 👍
-Below is a **clean, concise, and highly attractive GitHub README** using **your exact syntax style**, but **shortened, sharper, and recruiter-friendly** while still looking premium.
 
-You can **copy–paste this directly into `README.md`**.
-
----
-
-```md
 # 👋 Hello, I'm **Rohan Verma**
 ### Full Stack Developer | Mobile App Developer | AI Enthusiast  
 *Building intelligent solutions where code meets cognition*
@@ -108,18 +101,4 @@ I believe the future belongs to developers who combine **human creativity** with
 ![Visitors](https://komarev.com/ghpvc/?username=yourusername&color=58a6ff&style=flat-square)
 
 </div>
-```
 
----
-
-### ✅ Want upgrades?
-
-I can:
-
-* Personalize it for **freelancing**
-* Optimize it for **recruiters**
-* Add **GitHub trophies / animations**
-* Make a **dark-minimal** or **AI-themed** version
-* Replace placeholders with your **real links**
-
-Just tell me 👌
