@@ -26,7 +26,7 @@
 
 ### <img src="https://api.iconify.design/mdi:account-circle.svg?color=%232196F3" width="25" style="vertical-align: middle;" /> About Me
 
-<img align="right" src="https://camo.githubusercontent.com/4dbfb4cf10a8c2f1da7a9611bd3056a0c56303032598858e384c7ef95167571a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="280">
+<img align="right" src="profile.jpg" width="280" style="border-radius: 50%;">
 
 I am a passionate **Full Stack & Mobile Developer** with a deep interest in **AI-powered applications**. I enjoy building systems that don’t just work — they **learn, adapt, and scale**.
 
